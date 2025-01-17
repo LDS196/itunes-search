@@ -1,0 +1,37 @@
+{
+  "name": "itunes-search",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/third-parties": "^15.1.4",
+    "@radix-ui/colors": "^3.0.0",
+    "@radix-ui/react-label": "^2.1.1",
+    "@radix-ui/themes": "^3.1.6",
+    "@tanstack/react-query": "^4.36.1",
+    "@trivago/prettier-plugin-sort-imports": "^5.2.0",
+    "axios": "^1.7.9",
+    "clsx": "^2.1.1",
+    "eslint-plugin-unused-imports": "^4.1.4",
+    "next": "^15.1.4",
+    "postcss-import": "^16.1.0",
+    "prettier": "^3.4.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "sass": "^1.83.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.0",
+    "typescript": "^5"
+  }
+}
